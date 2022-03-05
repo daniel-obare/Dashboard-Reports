@@ -11,3 +11,5 @@
 ## Superstore Sales Report with dynaic title
 
 ![Superstore overview](https://github.com/daniel-obare/Dashboard-Reports/blob/main/superstore_overview.PNG)
+
+![Superstore products](https://github.com/daniel-obare/Dashboard-Reports/blob/main/superstore_products.PNG)

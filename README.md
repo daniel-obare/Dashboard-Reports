@@ -7,3 +7,7 @@
 ## Paginated profit analysis report
 
 ![Sales Report](https://github.com/daniel-obare/Power-BI-Dashboard-Reports/blob/main/page%201.PNG)
+
+## Paginated profit analysis report
+
+![Superstore overview](https://github.com/daniel-obare/Power-BI-Dashboard-Reports/blob/main/Superstore_overview.PNG)

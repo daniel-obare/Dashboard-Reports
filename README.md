@@ -8,6 +8,6 @@
 
 ![Sales Report](https://github.com/daniel-obare/Power-BI-Dashboard-Reports/blob/main/page%201.PNG)
 
-## Paginated profit analysis report
+## Superstore Sales Report
 
 ![Superstore overview](https://github.com/daniel-obare/Power-BI-Dashboard-Reports/blob/main/Superstore_overview.PNG)

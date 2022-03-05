@@ -8,6 +8,6 @@
 
 ![Sales Report](https://github.com/daniel-obare/Power-BI-Dashboard-Reports/blob/main/page%201.PNG)
 
-## Superstore Sales Report
+## Superstore Sales Report with dynaic title
 
 ![Superstore overview](https://github.com/daniel-obare/Dashboard-Reports/blob/main/superstore_overview.PNG)

@@ -10,4 +10,4 @@
 
 ## Superstore Sales Report
 
-![Superstore overview](https://github.com/daniel-obare/Power-BI-Dashboard-Reports/blob/main/Superstore_overview.PNG)
+![Superstore overview](https://github.com/daniel-obare/Dashboard-Reports/blob/main/superstore_overview.PNG)

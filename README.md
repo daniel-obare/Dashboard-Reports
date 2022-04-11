@@ -13,3 +13,9 @@
 ![Superstore overview](https://github.com/daniel-obare/Dashboard-Reports/blob/main/superstore_overview.PNG)
 
 ![Superstore products](https://github.com/daniel-obare/Dashboard-Reports/blob/main/superstore_products.PNG)
+
+## 2022 Ukraine Russia War report
+
+![2022 Ukraine Russia War OVERVIEW](https://github.com/daniel-obare/Dashboard-Reports/blob/main/UKRAINE-RUSSIA-WAR-OVERVIEW.PNG)
+
+![2022 Ukraine Russia War ITEMIZED LIST](https://github.com/daniel-obare/Dashboard-Reports/blob/main/UKRAINE-RUSSIA-WAR-ITEMIZED-LIST.PNG)
